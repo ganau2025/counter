@@ -1,0 +1,34 @@
+#countLbl{
+ display: block;
+ font-size: 10rem;
+  text-align: center;
+
+}
+.attendance{
+text-align: center;
+margin-top: 20px;
+}
+.container{
+  text-align: center;
+  font-size: 2rem;
+  color: blue;
+}
+.countBtn{
+text-align: center;
+}
+
+.btn{
+  background-color: blue;
+  border-radius: 5px;
+  border-color: white;
+  color: aliceblue;
+  cursor: pointer;
+
+}
+.btn:hover{
+  background-color: blueviolet;
+}
+
+.btn:active{
+  background-color: green;
+}
